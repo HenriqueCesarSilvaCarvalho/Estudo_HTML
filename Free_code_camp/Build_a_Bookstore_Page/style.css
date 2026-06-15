@@ -1,0 +1,14 @@
+.card {
+    background-color: pink;
+    border-radius: 8px;
+    height: 170px;
+    width: 320px;
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn{
+
+    background-color: #f3b2e0;
+
+}
